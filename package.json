@@ -1,0 +1,26 @@
+{
+  "name": "byg-en-mvc-setup-opgave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedemann-Nielsen/Byg-en-MVC-setup-opgave.git"
+  },
+  "author": "Tanja Hedemann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hedemann-Nielsen/Byg-en-MVC-setup-opgave/issues"
+  },
+  "homepage": "https://github.com/Hedemann-Nielsen/Byg-en-MVC-setup-opgave#readme",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "nodemon": "^3.0.2"
+  }
+}
